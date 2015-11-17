@@ -1,0 +1,15 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 //EN"> 
+<html>
+<head>
+       <title>Title here!</title>
+</head>
+<body>
+            <?PHP
+          //  phpinfo();
+            print ("<P> Parrafo1 </P>");
+            print ("<P> Parrafo2 </P>");
+
+             ?>
+
+</body>
+</html>
